@@ -16,20 +16,20 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "hello",
       background_url: "src/img/banners/cbg-13.gif",
       categories: [
         {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
+              name: "test",
               url: "https://app.raindrop.io",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming();",
+              name: "test2;",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.peach,
