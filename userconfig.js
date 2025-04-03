@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "hello",
-      background_url: "src/img/banners/cbg-13.gif",
+      background_url: "src/img/banners/cbg-14.gif",
       categories: [
         {
           name: "bookmarks",
