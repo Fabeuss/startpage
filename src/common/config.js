@@ -2,11 +2,11 @@ class Config {
   defaults = {
     overrideStorage: false,
     temperature: {
-      location: "London",
+      location: "Strasbourg",
       scale: "C",
     },
     clock: {
-      format: "h:i p",
+      format: "h:i",
     },
     disabled: [],
     openLastVisitedTab: false,
