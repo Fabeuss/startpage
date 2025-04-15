@@ -35,8 +35,20 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "DSM3;",
-              url: "http://192.168.1.22:16300/",
+              name: "Portainer;",
+              url: "http://192.168.1.13:9000/",
+              icon: "binary-tree",
+              icon_color: palette.peach,
+            },
+            {
+              name: "Freebox;",
+              url: "http://192.168.1.254/",
+              icon: "binary-tree",
+              icon_color: palette.peach,
+            },
+            {
+              name: "HA;",
+              url: "http://192.168.1.70:8123",
               icon: "binary-tree",
               icon_color: palette.peach,
             },
