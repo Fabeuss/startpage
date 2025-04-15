@@ -20,7 +20,7 @@ const default_config = {
       background_url: "src/img/banners/cbg-14.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "HOMELAB",
           links: [
             {
               name: "DSM",
@@ -38,31 +38,31 @@ const default_config = {
               name: "Portainer",
               url: "http://192.168.1.13:9000/",
               icon: "brand-docker",
-              icon_color: palette.peach,
+              icon_color: palette.blue,
             },
             {
               name: "Freebox",
               url: "http://192.168.1.254/",
               icon: "router",
-              icon_color: palette.peach,
+              icon_color: palette.red,
             },
             {
               name: "HA",
               url: "http://192.168.1.70:8123",
               icon: "smart-home",
-              icon_color: palette.peach,
+              icon_color: palette.blue,
             },
             {
               name: "Adguard NAS",
               url: "http://192.168.1.17/",
               icon: "shield-cancel",
-              icon_color: palette.peach,
+              icon_color: palette.green,
             },
             {
               name: "Beszel",
               url: "http://192.168.1.13:8095/",
               icon: "chart-histogram",
-              icon_color: palette.peach,
+              icon_color: palette.blue,
             },
           ],
         },
