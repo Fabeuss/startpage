@@ -23,14 +23,20 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "test",
-              url: "https://app.raindrop.io",
+              name: "DSM",
+              url: "http://192.168.1.13:32780/",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
             {
-              name: "test2;",
-              url: "https://musicforprogramming.net",
+              name: "DSM2;",
+              url: "http://192.168.1.22:16300/",
+              icon: "binary-tree",
+              icon_color: palette.peach,
+            },
+            {
+              name: "DSM3;",
+              url: "http://192.168.1.22:16300/",
               icon: "binary-tree",
               icon_color: palette.peach,
             },
