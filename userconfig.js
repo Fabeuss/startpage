@@ -58,6 +58,12 @@ const default_config = {
               icon: "shield-cancel",
               icon_color: palette.peach,
             },
+            {
+              name: "Beszel",
+              url: "http://192.168.1.13:8095/",
+              icon: "chart-histogram",
+              icon_color: palette.peach,
+            },
           ],
         },
         {
